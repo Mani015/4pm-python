@@ -1,0 +1,5 @@
+a=input('give one input:')
+print(type(a))
+b=input('give second input:')
+print(type(b))
+print(a+b)
